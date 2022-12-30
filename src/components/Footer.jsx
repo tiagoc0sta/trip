@@ -3,15 +3,13 @@ import { BsChatSquareDots } from 'react-icons/bs';
 
 const Footer = () => {
   return (
-    <div className='max-w[1140px] w-full py-8 m-auto border-t-4'>
+    <div id='/' className='max-w[1140px] w-full py-8 m-auto border-t-4'>
       <div className='flex items-center m-auto justify-center'>
         <BsChatSquareDots
           size={30}
           className='text-[-var(--primary-dark)] mr-2'
         />
-        <a id='/' className='text-xl font-bold text-gray-700 cursor-pointer'>
-          WEEKWAY
-        </a>
+        <h1 className='text-xl font-bold text-gray-700'>WEEKWAY</h1>
       </div>
     </div>
   );
