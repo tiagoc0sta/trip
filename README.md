@@ -10,8 +10,6 @@ Technologies used:
 
 ## Acknowledgements
 
-- [ Figma Project - link here ](https://www.youtube.com/watch?v=P4RqNEAqKJk)
-
 - To run:
 
 - NPM start / NPM build
